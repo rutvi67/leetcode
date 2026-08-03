@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rutvi67/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rutvi67/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/rutvi67/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rutvi67/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rutvi67/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/rutvi67/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/rutvi67/leetcode/tree/master/0506-relative-ranks) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
