@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rutvi67/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rutvi67/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/rutvi67/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rutvi67/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rutvi67/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/rutvi67/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rutvi67/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
