@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/rutvi67/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/rutvi67/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rutvi67/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rutvi67/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/rutvi67/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/rutvi67/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rutvi67/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rutvi67/leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/rutvi67/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rutvi67/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rutvi67/leetcode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/rutvi67/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rutvi67/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/rutvi67/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
