@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rutvi67/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rutvi67/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rutvi67/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
