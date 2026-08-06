@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rutvi67/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,12 +136,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
