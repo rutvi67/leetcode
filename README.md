@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rutvi67/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutvi67/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/rutvi67/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/rutvi67/leetcode/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/rutvi67/leetcode/tree/master/0860-lemonade-change) |
 ## Counting Sort
 |  |
 | ------- |
