@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rutvi67/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutvi67/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/rutvi67/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/rutvi67/leetcode/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rutvi67/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rutvi67/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
 ## Sorting
 |  |
 | ------- |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/rutvi67/leetcode/tree/master/0724-find-pivot-index) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
