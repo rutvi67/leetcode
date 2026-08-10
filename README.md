@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutvi67/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/rutvi67/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/rutvi67/leetcode/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
+| [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rutvi67/leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/rutvi67/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/rutvi67/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
 ## Stack
 |  |
 | ------- |
