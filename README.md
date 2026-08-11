@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/rutvi67/leetcode/tree/master/0860-lemonade-change) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rutvi67/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rutvi67/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rutvi67/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Sorting
 |  |
 | ------- |
@@ -169,8 +171,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rutvi67/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Polygons
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
+## Matrix
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/rutvi67/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
