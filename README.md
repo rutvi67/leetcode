@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/rutvi67/leetcode/tree/master/0860-lemonade-change) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rutvi67/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0896-monotonic-array](https://github.com/rutvi67/leetcode/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
 | ------- |
