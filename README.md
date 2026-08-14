@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/rutvi67/leetcode/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rutvi67/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rutvi67/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rutvi67/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/rutvi67/leetcode/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/rutvi67/leetcode/tree/master/1051-height-checker) |
 ## Two Pointers
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rutvi67/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/rutvi67/leetcode/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/rutvi67/leetcode/tree/master/0997-find-the-town-judge) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rutvi67/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
