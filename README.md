@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/rutvi67/leetcode/tree/master/0997-find-the-town-judge) |
 | [1037-valid-boomerang](https://github.com/rutvi67/leetcode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/rutvi67/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/rutvi67/leetcode/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rutvi67/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/rutvi67/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/rutvi67/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/rutvi67/leetcode/tree/master/1122-relative-sort-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rutvi67/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/rutvi67/leetcode/tree/master/0997-find-the-town-judge) |
+| [1122-relative-sort-array](https://github.com/rutvi67/leetcode/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/rutvi67/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/rutvi67/leetcode/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
 | ------- |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rutvi67/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/rutvi67/leetcode/tree/master/1122-relative-sort-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -221,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/rutvi67/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/rutvi67/leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
