@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rutvi67/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/rutvi67/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/rutvi67/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rutvi67/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/rutvi67/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/rutvi67/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/rutvi67/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rutvi67/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rutvi67/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/rutvi67/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutvi67/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rutvi67/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/rutvi67/leetcode/tree/master/0506-relative-ranks) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rutvi67/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/rutvi67/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/rutvi67/leetcode/tree/master/1260-shift-2d-grid) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rutvi67/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bubble Sort
 |  |
 | ------- |
