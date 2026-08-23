@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rutvi67/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/rutvi67/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/rutvi67/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 ## Two Pointers
 |  |
 | ------- |
