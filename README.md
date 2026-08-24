@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/rutvi67/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutvi67/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rutvi67/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rutvi67/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
