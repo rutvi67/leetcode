@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutvi67/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rutvi67/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1487-making-file-names-unique](https://github.com/rutvi67/leetcode/tree/master/1487-making-file-names-unique) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rutvi67/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutvi67/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rutvi67/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rutvi67/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Dynamic Programming
 |  |
 | ------- |
