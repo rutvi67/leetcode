@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-making-file-names-unique](https://github.com/rutvi67/leetcode/tree/master/1487-making-file-names-unique) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rutvi67/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/rutvi67/leetcode/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/rutvi67/leetcode/tree/master/1534-count-good-triplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1408-string-matching-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/rutvi67/leetcode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
