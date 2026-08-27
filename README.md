@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/rutvi67/leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/rutvi67/leetcode/tree/master/1534-count-good-triplets) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/rutvi67/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutvi67/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rutvi67/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rutvi67/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rutvi67/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/rutvi67/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rutvi67/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/rutvi67/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Counting Sort
 |  |
 | ------- |
@@ -323,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/rutvi67/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
