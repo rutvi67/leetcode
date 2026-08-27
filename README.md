@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rutvi67/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/rutvi67/leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/rutvi67/leetcode/tree/master/1534-count-good-triplets) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/rutvi67/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/rutvi67/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/rutvi67/leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/rutvi67/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rutvi67/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/rutvi67/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Counting Sort
 |  |
 | ------- |
