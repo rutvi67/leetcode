@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rutvi67/leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/rutvi67/leetcode/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/rutvi67/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rutvi67/leetcode/tree/master/0088-merge-sorted-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rutvi67/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/rutvi67/leetcode/tree/master/0014-longest-common-prefix) |
 | [0500-keyboard-row](https://github.com/rutvi67/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rutvi67/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
