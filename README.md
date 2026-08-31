@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rutvi67/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rutvi67/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/rutvi67/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rutvi67/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rutvi67/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rutvi67/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rutvi67/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rutvi67/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rutvi67/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rutvi67/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
