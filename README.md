@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/rutvi67/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/rutvi67/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1656-design-an-ordered-stream](https://github.com/rutvi67/leetcode/tree/master/1656-design-an-ordered-stream) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutvi67/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rutvi67/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1487-making-file-names-unique](https://github.com/rutvi67/leetcode/tree/master/1487-making-file-names-unique) |
+| [1656-design-an-ordered-stream](https://github.com/rutvi67/leetcode/tree/master/1656-design-an-ordered-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/rutvi67/leetcode/tree/master/1603-design-parking-system) |
+| [1656-design-an-ordered-stream](https://github.com/rutvi67/leetcode/tree/master/1656-design-an-ordered-stream) |
 ## Hash Function
 |  |
 | ------- |
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rutvi67/leetcode/tree/master/0070-climbing-stairs) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/rutvi67/leetcode/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
