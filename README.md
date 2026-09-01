@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rutvi67/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rutvi67/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rutvi67/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rutvi67/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rutvi67/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rutvi67/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rutvi67/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/rutvi67/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Bit Manipulation
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rutvi67/leetcode/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rutvi67/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
