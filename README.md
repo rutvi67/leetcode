@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/rutvi67/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1656-design-an-ordered-stream](https://github.com/rutvi67/leetcode/tree/master/1656-design-an-ordered-stream) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutvi67/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-making-file-names-unique](https://github.com/rutvi67/leetcode/tree/master/1487-making-file-names-unique) |
 | [1528-shuffle-string](https://github.com/rutvi67/leetcode/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/rutvi67/leetcode/tree/master/1556-thousand-separator) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutvi67/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
 | ------- |
