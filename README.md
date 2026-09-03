@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1656-design-an-ordered-stream](https://github.com/rutvi67/leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutvi67/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/rutvi67/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
