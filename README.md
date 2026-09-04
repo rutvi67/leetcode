@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutvi67/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/rutvi67/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/rutvi67/leetcode/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rutvi67/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rutvi67/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rutvi67/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Sorting
 |  |
 | ------- |
