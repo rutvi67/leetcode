@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/rutvi67/leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutvi67/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/rutvi67/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1816-truncate-sentence](https://github.com/rutvi67/leetcode/tree/master/1816-truncate-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/rutvi67/leetcode/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/rutvi67/leetcode/tree/master/1556-thousand-separator) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutvi67/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/rutvi67/leetcode/tree/master/1816-truncate-sentence) |
 ## Stack
 |  |
 | ------- |
