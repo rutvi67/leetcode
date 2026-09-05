@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/rutvi67/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/rutvi67/leetcode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rutvi67/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rutvi67/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/rutvi67/leetcode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rutvi67/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rutvi67/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rutvi67/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Bubble Sort
 |  |
 | ------- |
