@@ -402,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-design-an-ordered-stream](https://github.com/rutvi67/leetcode/tree/master/1656-design-an-ordered-stream) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rutvi67/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
