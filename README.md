@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/rutvi67/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rutvi67/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/rutvi67/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rutvi67/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rutvi67/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rutvi67/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rutvi67/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rutvi67/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rutvi67/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/rutvi67/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/rutvi67/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rutvi67/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Geometry
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/rutvi67/leetcode/tree/master/1260-shift-2d-grid) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/rutvi67/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1603-design-parking-system](https://github.com/rutvi67/leetcode/tree/master/1603-design-parking-system) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rutvi67/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## String Matching
 |  |
 | ------- |
