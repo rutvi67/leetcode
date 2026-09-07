@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/rutvi67/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rutvi67/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/rutvi67/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/rutvi67/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rutvi67/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/rutvi67/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/rutvi67/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/rutvi67/leetcode/tree/master/1122-relative-sort-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/rutvi67/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Simulation
 |  |
 | ------- |
