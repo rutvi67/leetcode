@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/rutvi67/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rutvi67/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/rutvi67/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/rutvi67/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/rutvi67/leetcode/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rutvi67/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/rutvi67/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Greedy
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rutvi67/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/rutvi67/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rutvi67/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/rutvi67/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Counting Sort
 |  |
 | ------- |
