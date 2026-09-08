@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rutvi67/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/rutvi67/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rutvi67/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/rutvi67/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rutvi67/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/rutvi67/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rutvi67/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/rutvi67/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Math
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-thousand-separator](https://github.com/rutvi67/leetcode/tree/master/1556-thousand-separator) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutvi67/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/rutvi67/leetcode/tree/master/1816-truncate-sentence) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/rutvi67/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Stack
 |  |
 | ------- |
