@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rutvi67/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rutvi67/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/rutvi67/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [1995-count-special-quadruplets](https://github.com/rutvi67/leetcode/tree/master/1995-count-special-quadruplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-making-file-names-unique](https://github.com/rutvi67/leetcode/tree/master/1487-making-file-names-unique) |
 | [1656-design-an-ordered-stream](https://github.com/rutvi67/leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/rutvi67/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1995-count-special-quadruplets](https://github.com/rutvi67/leetcode/tree/master/1995-count-special-quadruplets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/rutvi67/leetcode/tree/master/1534-count-good-triplets) |
+| [1995-count-special-quadruplets](https://github.com/rutvi67/leetcode/tree/master/1995-count-special-quadruplets) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
