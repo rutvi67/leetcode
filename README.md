@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/rutvi67/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rutvi67/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/rutvi67/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rutvi67/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/rutvi67/leetcode/tree/master/1816-truncate-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/rutvi67/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rutvi67/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rutvi67/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/rutvi67/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1603-design-parking-system](https://github.com/rutvi67/leetcode/tree/master/1603-design-parking-system) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rutvi67/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rutvi67/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
 | ------- |
