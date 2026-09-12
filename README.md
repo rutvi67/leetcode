@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/rutvi67/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rutvi67/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/rutvi67/leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/rutvi67/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
 | ------- |
