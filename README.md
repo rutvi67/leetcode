@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rutvi67/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/rutvi67/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rutvi67/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rutvi67/leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/rutvi67/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/rutvi67/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/rutvi67/leetcode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutvi67/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/rutvi67/leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/rutvi67/leetcode/tree/master/1260-shift-2d-grid) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/rutvi67/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1603-design-parking-system](https://github.com/rutvi67/leetcode/tree/master/1603-design-parking-system) |
