@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rutvi67/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rutvi67/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/rutvi67/leetcode/tree/master/2079-watering-plants) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rutvi67/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rutvi67/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/rutvi67/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rutvi67/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rutvi67/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/rutvi67/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rutvi67/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rutvi67/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rutvi67/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
