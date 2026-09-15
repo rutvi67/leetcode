@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/rutvi67/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rutvi67/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rutvi67/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2079-watering-plants](https://github.com/rutvi67/leetcode/tree/master/2079-watering-plants) |
 ## Two Pointers
 |  |
 | ------- |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rutvi67/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rutvi67/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rutvi67/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2079-watering-plants](https://github.com/rutvi67/leetcode/tree/master/2079-watering-plants) |
 ## String Matching
 |  |
 | ------- |
