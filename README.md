@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rutvi67/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/rutvi67/leetcode/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutvi67/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rutvi67/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/rutvi67/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rutvi67/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rutvi67/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rutvi67/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting Sort
 |  |
 | ------- |
