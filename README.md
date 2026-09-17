@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutvi67/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rutvi67/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rutvi67/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rutvi67/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rutvi67/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutvi67/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rutvi67/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rutvi67/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rutvi67/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/rutvi67/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rutvi67/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rutvi67/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rutvi67/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/rutvi67/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rutvi67/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Greedy
 |  |
 | ------- |
