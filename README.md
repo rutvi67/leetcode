@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rutvi67/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rutvi67/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rutvi67/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rutvi67/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rutvi67/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rutvi67/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rutvi67/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rutvi67/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rutvi67/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rutvi67/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rutvi67/leetcode/tree/master/0067-add-binary) |
 | [0500-keyboard-row](https://github.com/rutvi67/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rutvi67/leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/rutvi67/leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/rutvi67/leetcode/tree/master/1260-shift-2d-grid) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/rutvi67/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
