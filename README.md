@@ -569,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rutvi67/leetcode/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/rutvi67/leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
