@@ -2,27 +2,16 @@ class MyQueue {
 public:
     stack<int> in;
     stack<int> out;
-
-    MyQueue() {
-
-    }
-
+    MyQueue() { }
     void push(int x) {
-        in.push(x);
-    }
-
+        in.push(x);}
     int pop() {
-
         peek();
-
         int val = out.top();
         out.pop();
-
         return val;
     }
-
     int peek() {
-
         if (out.empty()) {
 
             while (!in.empty()) {
@@ -30,11 +19,8 @@ public:
                 in.pop();
             }
         }
-
         return out.top();
     }
-
     bool empty() {
-        return in.empty() && out.empty();
-    }
+        return in.empty() && out.empty(); }
 };
