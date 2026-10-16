@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rutvi67/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rutvi67/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rutvi67/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rutvi67/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rutvi67/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rutvi67/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rutvi67/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rutvi67/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rutvi67/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/rutvi67/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rutvi67/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rutvi67/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rutvi67/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rutvi67/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rutvi67/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rutvi67/leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/rutvi67/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
