@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rutvi67/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rutvi67/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/rutvi67/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rutvi67/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/rutvi67/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/rutvi67/leetcode/tree/master/0561-array-partition) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rutvi67/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rutvi67/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rutvi67/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rutvi67/leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/rutvi67/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rutvi67/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rutvi67/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/rutvi67/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rutvi67/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rutvi67/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rutvi67/leetcode/tree/master/0500-keyboard-row) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rutvi67/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rutvi67/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rutvi67/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/rutvi67/leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/rutvi67/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
