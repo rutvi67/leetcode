@@ -1,14 +1,9 @@
 class Solution(object):
     def thirdMax(self, nums):
-       
-        distinct = set(nums)
+        dis = set(nums)
+        if len(dis) < 3:
+            return max(dis)
+        dis.remove(max(dis))
+        dis.remove(max(dis))
         
-   
-        if len(distinct) < 3:
-            return max(distinct)
-        
-        
-        distinct.remove(max(distinct))
-        distinct.remove(max(distinct))
-        
-        return max(distinct)
+        return max(dis)
