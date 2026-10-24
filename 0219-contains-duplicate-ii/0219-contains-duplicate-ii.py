@@ -1,8 +1,8 @@
 class Solution(object):
     def containsNearbyDuplicate(self, nums, k):
-        index = {}
+        x = {}
         for i, num in enumerate(nums):
-            if num in index and i - index[num] <= k:
+            if num in x and i - x[num] <= k:
                 return True
-            index[num] = i
+            x[num] = i
         return False
