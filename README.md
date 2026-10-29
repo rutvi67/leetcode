@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rutvi67/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/rutvi67/leetcode/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/rutvi67/leetcode/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/rutvi67/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rutvi67/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/rutvi67/leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rutvi67/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
