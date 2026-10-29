@@ -5,33 +5,31 @@ public:
         sort(sorted.begin(),
              sorted.end(),
              greater<int>());
-        unordered_map<int,int> rank;
+        unordered_map<int, string> rank;
         for(int i = 0; i < sorted.size(); i++)
         {
-            rank[sorted[i]] = i + 1;
-        }
-        vector<string> ans;
-        for(int num : score)
-        {
-            int r = rank[num];
-            if(r == 1)
+            if(i == 0)
             {
-                ans.push_back("Gold Medal");
+                rank[sorted[i]] = "Gold Medal";
             }
-            else if(r == 2)
+            else if(i == 1)
             {
-                ans.push_back("Silver Medal");
+                rank[sorted[i]] = "Silver Medal";
             }
-            else if(r == 3)
+            else if(i == 2)
             {
-                ans.push_back("Bronze Medal");
+                rank[sorted[i]] = "Bronze Medal";
             }
             else
             {
-                ans.push_back(to_string(r));
+                rank[sorted[i]] = to_string(i + 1);
             }
         }
-
+        vector<string> ans;
+        for(int s : score)
+        {
+            ans.push_back(rank[s]);
+        }
         return ans;
     }
 };
