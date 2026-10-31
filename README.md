@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rutvi67/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rutvi67/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rutvi67/leetcode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/rutvi67/leetcode/tree/master/0541-reverse-string-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/rutvi67/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rutvi67/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/rutvi67/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/rutvi67/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/rutvi67/leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/rutvi67/leetcode/tree/master/0500-keyboard-row) |
+| [0541-reverse-string-ii](https://github.com/rutvi67/leetcode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rutvi67/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
