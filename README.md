@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/rutvi67/leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/rutvi67/leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/rutvi67/leetcode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/rutvi67/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rutvi67/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/rutvi67/leetcode/tree/master/0819-most-common-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rutvi67/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
