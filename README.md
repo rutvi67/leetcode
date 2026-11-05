@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/rutvi67/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/rutvi67/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
 ## Prefix Sum
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rutvi67/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rutvi67/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/rutvi67/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1408-string-matching-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Enumeration
 |  |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rutvi67/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/rutvi67/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rutvi67/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/rutvi67/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rutvi67/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/rutvi67/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rutvi67/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/rutvi67/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rutvi67/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rutvi67/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rutvi67/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/rutvi67/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
