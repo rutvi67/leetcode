@@ -18,9 +18,7 @@ public:
                 if(sum < mini)
                 {
                     mini = sum;
-
                     ans.clear();
-
                     ans.push_back(list2[i]);
                 }
                 else if(sum == mini)
