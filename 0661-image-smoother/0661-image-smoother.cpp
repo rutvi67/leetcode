@@ -13,17 +13,11 @@ public:
             {
                 int sum = 0;
                 int count = 0;
-                for(int r = i-1;
-                    r <= i+1;
-                    r++)
+                for(int r = i-1;   r <= i+1;r++)
                 {
-                    for(int c = j-1;
-                        c <= j+1;
-                        c++)
+                    for(int c = j-1;c <= j+1;c++)
                     {
-                        if(r >= 0 &&
-                           r < rows &&
-                           c >= 0 &&
+                        if(r >= 0 &&r <rows &&    c >= 0 &&
                            c < cols)
                         {
                             sum += img[r][c];
