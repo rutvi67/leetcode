@@ -13,7 +13,6 @@ public:
             ans = min(ans,
                       (long)node->val);
         }
-
         dfs(node->left);
         dfs(node->right);
     }
@@ -21,11 +20,7 @@ public:
     int findSecondMinimumValue(TreeNode* root)
     {
         minimum = root->val;
-
         dfs(root);
-
-        return ans == LONG_MAX
-               ? -1
-               : ans;
+        return ans == LONG_MAX ? -1: ans;
     }
 };
