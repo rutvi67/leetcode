@@ -11,7 +11,7 @@ public:
         if(node->val > minimum)
         {
             ans = min(ans,
-                      (long)node->val);
+         (long)node->val);
         }
         dfs(node->left);
         dfs(node->right);
