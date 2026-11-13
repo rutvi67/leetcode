@@ -17,15 +17,16 @@ public:
 
         
         int oi = 0, ei = 0;
-        string result = "";
+        int result = 0;
         for (char c : s) {
             int d = c - '0';
+            result*=10;;
             if (d % 2 == 0)
-                result += to_string(even[ei++]);
+                result +=even[ei++];
             else
-                result += to_string(odd[oi++]);
+                result += odd[oi++];
         }
 
-        return stoi(result);
+        return result;
     }
 };
