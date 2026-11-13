@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutvi67/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rutvi67/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rutvi67/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/rutvi67/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rutvi67/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/rutvi67/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rutvi67/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/rutvi67/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Greedy
 |  |
 | ------- |
