@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rutvi67/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rutvi67/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2233-maximum-product-after-k-increments](https://github.com/rutvi67/leetcode/tree/master/2233-maximum-product-after-k-increments) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rutvi67/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Two Pointers
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/rutvi67/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rutvi67/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/rutvi67/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rutvi67/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rutvi67/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/rutvi67/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2233-maximum-product-after-k-increments](https://github.com/rutvi67/leetcode/tree/master/2233-maximum-product-after-k-increments) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rutvi67/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Greedy
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rutvi67/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rutvi67/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/rutvi67/leetcode/tree/master/2233-maximum-product-after-k-increments) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rutvi67/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
 |  |
 | ------- |
