@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/rutvi67/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rutvi67/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rutvi67/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/rutvi67/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/rutvi67/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2233-maximum-product-after-k-increments](https://github.com/rutvi67/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rutvi67/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2336-smallest-number-in-infinite-set](https://github.com/rutvi67/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Greedy
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/rutvi67/leetcode/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/rutvi67/leetcode/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/rutvi67/leetcode/tree/master/1656-design-an-ordered-stream) |
+| [2336-smallest-number-in-infinite-set](https://github.com/rutvi67/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
 | ------- |
@@ -748,4 +751,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/rutvi67/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rutvi67/leetcode/tree/master/0563-binary-tree-tilt) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/rutvi67/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
