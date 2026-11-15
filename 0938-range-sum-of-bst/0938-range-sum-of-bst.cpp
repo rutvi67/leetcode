@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     int dfs(TreeNode* root, int low, int high) {
         if(root == nullptr)
             return 0;
