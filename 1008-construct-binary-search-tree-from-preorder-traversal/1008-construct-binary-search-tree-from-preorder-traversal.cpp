@@ -9,7 +9,6 @@ public:
             return nullptr;
 
         TreeNode* root = new TreeNode(preorder[idx++]);
-
         root->left = build(preorder, root->val);
 
         root->right = build(preorder, bound);
