@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rutvi67/leetcode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/rutvi67/leetcode/tree/master/0207-course-schedule) |
 | [0997-find-the-town-judge](https://github.com/rutvi67/leetcode/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/rutvi67/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Pigeonhole Principle
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rutvi67/leetcode/tree/master/0207-course-schedule) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/rutvi67/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Game Theory
 |  |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/rutvi67/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rutvi67/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rutvi67/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/rutvi67/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/rutvi67/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rutvi67/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rutvi67/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/rutvi67/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rutvi67/leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/rutvi67/leetcode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/rutvi67/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/rutvi67/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/rutvi67/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rutvi67/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -840,4 +844,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rutvi67/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rutvi67/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
