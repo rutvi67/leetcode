@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/rutvi67/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rutvi67/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rutvi67/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rutvi67/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rutvi67/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rutvi67/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rutvi67/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rutvi67/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/rutvi67/leetcode/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/rutvi67/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutvi67/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rutvi67/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Pigeonhole Principle
 |  |
 | ------- |
